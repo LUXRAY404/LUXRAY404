@@ -37,21 +37,4 @@
 
 <p><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></p>
 
-> *Ethical Hacking Only · Authorized Testing · BD · November 16, 2025 09:10 PM +06*
-
-<!-- Contribution Snake -->
-<p align="center"><img src="./assets/images/github-contribution-grid-snake.svg"/></p>
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-39D609?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ethical%20Hacker-Active-39D609?style=for-the-badge&logo=shield"/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=LUXRAY404&label=Profile%20Views&color=39D609&style=flat"/>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=LUXRAY404&icon=0&color=0"/>
-  </a>
-</p>
-
 </div>
