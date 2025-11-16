@@ -42,3 +42,10 @@
 > *Ethical Hacking Only · Authorized Testing · BD · November 16, 2025 08:59 PM +06*
 
 </div>
+
+<!-- Contribution Snake -->
+<p align="center"><img src="./assets/images/github-contribution-grid-snake.svg"></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
+<!-- Footer -->
