@@ -23,8 +23,8 @@
 ## Tech Arsenal  
 > *9×10 Ultra-Compact Grid – Hacker + AI/ML Ready*
 
-| L | W | D | DB | LX | P | R | T | LR | AI |
-|---|----|----|----|----|----|----|----|----|----|
+| **Lang** | **Web** | **DevOps** | **DB** | **Linux** | **Pentest** | **RE** | **Tools** | **Learn** | **AI** |
+|----------|---------|------------|--------|-----------|-------------|--------|-----------|-----------|--------|
 | <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="45"/> C# | <img src="https://techstack-generator.vercel.app/django-icon.svg" width="45"/> Django | <img src="https://skillicons.dev/icons?i=docker" width="36"/> Docker | <img src="https://skillicons.dev/icons?i=postgres" width="36"/> PG | <img src="https://skillicons.dev/icons?i=arch" width="36"/> Arch | <img src="https://skillicons.dev/icons?i=metasploit" width="36"/> MSF | <img src="https://skillicons.dev/icons?i=ghidra" width="36"/> Ghidra | <img src="https://skillicons.dev/icons?i=git" width="36"/> Git | <img src="https://skillicons.dev/icons?i=tryhackme" width="36"/> THM | <img src="https://skillicons.dev/icons?i=tensorflow" width="36"/> TF |
 | <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45"/> Py | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45"/> React | <img src="https://skillicons.dev/icons?i=kubernetes" width="36"/> K8s | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45"/> MySQL | <img src="https://skillicons.dev/icons?i=kali" width="36"/> Kali | <img src="https://skillicons.dev/icons?i=nmap" width="36"/> Nmap | <img src="https://skillicons.dev/icons?i=radare2" width="36"/> R2 | <img src="https://techstack-generator.vercel.app/github-icon.svg" width="45"/> GH | <img src="https://skillicons.dev/icons?i=hackthebox" width="36"/> HTB | <img src="https://skillicons.dev/icons?i=pytorch" width="36"/> Torch |
 | <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45"/> JS | <img src="https://skillicons.dev/icons?i=flask" width="36"/> Flask | <img src="https://skillicons.dev/icons?i=aws" width="36"/> AWS | <img src="https://skillicons.dev/icons?i=redis" width="36"/> Redis | <img src="https://skillicons.dev/icons?i=parrot" width="36"/> Parrot | <img src="https://skillicons.dev/icons?i=burpsuite" width="36"/> Burp | <img src="https://skillicons.dev/icons?i=gdb" width="36"/> GDB | <img src="https://skillicons.dev/icons?i=postman" width="36"/> PM | <img src="https://skillicons.dev/icons?i=vscode" width="36"/> VS | <img src="https://skillicons.dev/icons?i=opencv" width="36"/> CV |
@@ -37,9 +37,8 @@
 
 <p><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></p>
 
-**L**=Lang **W**=Web **D**=DevOps **DB**=Database **LX**=Linux **P**=Pentest **R**=RE **T**=Tools **LR**=Learn **AI**=AI/ML  
-> *Ethical Hacking Only · Authorized Testing · BD · 16 Nov 2025 08:40 PM +06*
----
+**Lang**=Languages **Linux**=Distros **Pentest**=Security **Tools**=Automation **Learn**=Platforms **AI**=AI/ML  
+> *Ethical Hacking Only · Authorized Testing · BD · 16 Nov 2025 08:44 PM +06*
 
 ## 📊 **GitHub Stats**
 
