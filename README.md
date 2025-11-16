@@ -1,6 +1,6 @@
 <div align="Lift">
 
-<img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="80"/>
+<img src="https://github.com/LUXRAY404/temoos/blob/main/Linux.png" width="80"/>
 
 # Hi, I’m **@LUXRAY404**  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=39D609&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Ethical+Hacker+%26+Bug+Hunter;Open+Source+Contributor)](https://git.io/typing-svg)
