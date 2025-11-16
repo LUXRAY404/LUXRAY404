@@ -1,4 +1,4 @@
-<div align="center">
+<div align="lift">
 
 <img src="https://github.com/LUXRAY404/temoos/blob/main/Linux.png" width="850"/>
 
