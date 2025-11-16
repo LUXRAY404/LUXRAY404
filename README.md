@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
-## <img src="https://i.ibb.co.com/qYQNFYTc/Coding-Work-From-Home-GIF-by-Domme-Space.gif" width=10%>Spent My Time 
+## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gifcid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>Spent My Time 
 
 <p align="center">
     <a href="https://github.com/LMNx9-JOHNY">
