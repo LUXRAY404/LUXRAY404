@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠 **Tech Arsenal**  
+## Tech Arsenal  
 > *9×10 Ultra-Compact Grid – Hacker + AI/ML Ready*
 
 | L | W | D | DB | LX | P | R | T | LR | AI |
@@ -38,8 +38,7 @@
 <p><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></p>
 
 **L**=Lang **W**=Web **D**=DevOps **DB**=Database **LX**=Linux **P**=Pentest **R**=RE **T**=Tools **LR**=Learn **AI**=AI/ML  
-> *Ethical Hacking Only · Authorized Testing · BD · 16 Nov 2025*
-
+> *Ethical Hacking Only · Authorized Testing · BD · 16 Nov 2025 08:40 PM +06*
 ---
 
 ## 📊 **GitHub Stats**
