@@ -2,20 +2,20 @@
 
 <img src="https://github.com/LUXRAY404/temoos/blob/main/Linux.png"/>
 
-# 💫 Hi, I’m **@INTELEON404**  
+# Hi, I’m **@INTELEON404**  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=39D609&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Ethical+Hacker+%26+Bug+Hunter;Open+Source+Contributor)](https://git.io/typing-svg)
 
 <img src="https://github.com/hackinter/Template/blob/main/code.gif?raw=true" width="500" />
 
 ---
 
-### 👀 **Interests**  
+### Interests  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=39D609&center=true&vCenter=true&width=500&lines=Cybersecurity;Malware+Forensics;Web3+Security;Mobile+Pentesting)](https://git.io/typing-svg)
 
-### 🌱 **Currently Learning**  
+### Currently Learning  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=39D609&center=true&vCenter=true&width=500&lines=Advanced+Exploitation;Reverse+Engineering;AI+Security;Blockchain+Forensics)](https://git.io/typing-svg)
 
-### 🤝 **Open to Collaborate On**  
+### Open to Collaborate On  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=39D609&center=true&vCenter=true&width=500&lines=Security+Tools;CTF+Platforms;Bug+Bounty+Programs;Open+Source+PenTest+Tools)](https://git.io/typing-svg)
 
 ---
@@ -40,28 +40,4 @@
 **Lang**=Languages **Linux**=Distros **Pentest**=Security **Tools**=Automation **Learn**=Platforms **AI**=AI/ML  
 > *Ethical Hacking Only · Authorized Testing · BD · 16 Nov 2025 08:44 PM +06*
 
-## 📊 **GitHub Stats**
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=INTELEON404&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=INTELEON404&theme=highcontrast&hide_border=true"/>
-</p>
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INTELEON404&theme=highcontrast&hide_border=true&layout=compact"/>
-</p>
-
-### 🔝 **Top Contributed Repos**
-![](https://github-contributor-stats.vercel.app/api?username=INTELEON404&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## 🕒 **Time Spent Coding**
-<p align="center">
-  <img width="60%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=INTELEON404&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777"/>
-  <img width="30%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
-</p>
-
----
-
-
----
+</div>
