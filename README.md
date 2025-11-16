@@ -1,41 +1,27 @@
-## Hi there 👋
+<div align="center">
 
+<img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="80"/>
 
-**LUXRAY404/LUXRAY404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 Hi, I’m **@INTELEON404**  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=39D609&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Ethical+Hacker+%26+Bug+Hunter;Open+Source+Contributor)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<img src="https://github.com/hackinter/Template/blob/main/code.gif?raw=true" width="500" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
+### 👀 **Interests**  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=39D609&center=true&vCenter=true&width=500&lines=Cybersecurity;Malware+Forensics;Web3+Security;Mobile+Pentesting)](https://git.io/typing-svg)
 
-## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gifcid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>Spent My Time 
+### 🌱 **Currently Learning**  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=39D609&center=true&vCenter=true&width=500&lines=Advanced+Exploitation;Reverse+Engineering;AI+Security;Blockchain+Forensics)](https://git.io/typing-svg)
 
-<p align="center">
-    <a href="https://github.com/LMNx9-JOHNY">
-          <img width="60%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" />
-    <img width="30%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
-  </a>
-</p>
+### 🤝 **Open to Collaborate On**  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=39D609&center=true&vCenter=true&width=500&lines=Security+Tools;CTF+Platforms;Bug+Bounty+Programs;Open+Source+PenTest+Tools)](https://git.io/typing-svg)
 
-<br>
-<p align="center"><a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></a></p>
+---
 
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-
-## tech : 
-
-
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px"> Stack ⚙️
-> *9×10 ultra-concise grid – hacker + AI/ML*
+## 🛠 **Tech Arsenal**  
+> *9×10 Ultra-Compact Grid – Hacker + AI/ML Ready*
 
 | L | W | D | DB | LX | P | R | T | LR | AI |
 |---|----|----|----|----|----|----|----|----|----|
@@ -49,9 +35,61 @@ Here are some ideas to get you started:
 | <img src="https://skillicons.dev/icons?i=dotnet" width="36"/> .NET | <img src="https://skillicons.dev/icons?i=graphql" width="36"/> GQL | <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="36"/> Cel | <img src="https://skillicons.dev/icons?i=sqlite" width="36"/> SQLi | <img src="https://skillicons.dev/icons?i=bash" width="36"/> Bash | <img src="https://skillicons.dev/icons?i=nuclei" width="36"/> Nuc | <img src="https://skillicons.dev/icons?i=binwalk" width="36"/> BW | <img src="https://bruhin.software/img/logos/pytest.svg" width="32"/> PyT | <img src="https://skillicons.dev/icons?i=rootme" width="36"/> RM | <img src="https://skillicons.dev/icons?i=numpy" width="36"/> NP |
 | – | <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="45"/> REST | – | – | <img src="https://skillicons.dev/icons?i=vim" width="36"/> Vim | <img src="https://skillicons.dev/icons?i=ffuf" width="36"/> ffuf | <img src="https://skillicons.dev/icons?i=volatility" width="36"/> Vol | <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="36"/> Doc | <img src="https://skillicons.dev/icons?i=pwncollege" width="36"/> PC | <img src="https://skillicons.dev/icons?i=julia" width="36"/> Jul |
 
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+<p><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></p>
+
+**L**=Lang **W**=Web **D**=DevOps **DB**=Database **LX**=Linux **P**=Pentest **R**=RE **T**=Tools **LR**=Learn **AI**=AI/ML  
+> *Ethical Hacking Only · Authorized Testing · BD · 16 Nov 2025*
 
 ---
 
-**L**=Lang **W**=Web **D**=DevOps **DB**=Database **LX**=Linux **P**=Pentest **R**=RE **T**=Tools **LR**=Learn **AI**=AI/ML  
-> Ethical · BD · 16 Nov 2025
+## 📊 **GitHub Stats**
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=INTELEON404&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=INTELEON404&theme=highcontrast&hide_border=true"/>
+</p>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INTELEON404&theme=highcontrast&hide_border=true&layout=compact"/>
+</p>
+
+### 🔝 **Top Contributed Repos**
+![](https://github-contributor-stats.vercel.app/api?username=INTELEON404&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+## 🕒 **Time Spent Coding**
+<p align="center">
+  <img width="60%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=INTELEON404&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777"/>
+  <img width="30%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
+</p>
+
+---
+
+## 📫 **Connect With Me**
+<p align="center">
+  <a href="https://twitter.com/_anonix_z"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/twitter.svg" width="32"/></a>
+  <a href="https://linkedin.com/in/INTELEON404"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="32"/></a>
+  <a href="https://github.com/INTELEON404"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" width="32"/></a>
+  <a href="https://t.me/HACKINERS"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/telegram.svg" width="32"/></a>
+  <a href="mailto:ceh.ec.counselor147@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" width="32"/></a>
+</p>
+
+---
+
+## 🚀 **Mission**
+> *Empowering a safer digital world through open-source security tools, ethical hacking, and community collaboration.*
+
+## ⚡ **Fun Fact**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39D609&center=true&vCenter=true&width=500&lines=I+once+built+a+drone+that+flies+autonomously!)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=INTELEON404&theme=redical&hide_border=true"/>
+</p>
+
+<p align="center">
+  ![Visitor Count](https://profile-counter.glitch.me/INTELEON404/count.svg)
+  &nbsp;&nbsp;
+  [![](https://visitcount.itsvg.in/api?id=INTELEON404&icon=0&color=0)](https://visitcount.itsvg.in)
+</p>
+
+</div>
