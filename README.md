@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="80"/>
+<img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif"/>
 
 # 💫 Hi, I’m **@INTELEON404**  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=39D609&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Ethical+Hacker+%26+Bug+Hunter;Open+Source+Contributor)](https://git.io/typing-svg)
@@ -65,31 +65,5 @@
 
 ---
 
-## 📫 **Connect With Me**
-<p align="center">
-  <a href="https://twitter.com/_anonix_z"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/twitter.svg" width="32"/></a>
-  <a href="https://linkedin.com/in/INTELEON404"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="32"/></a>
-  <a href="https://github.com/INTELEON404"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" width="32"/></a>
-  <a href="https://t.me/HACKINERS"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/telegram.svg" width="32"/></a>
-  <a href="mailto:ceh.ec.counselor147@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" width="32"/></a>
-</p>
 
 ---
-
-## 🚀 **Mission**
-> *Empowering a safer digital world through open-source security tools, ethical hacking, and community collaboration.*
-
-## ⚡ **Fun Fact**
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39D609&center=true&vCenter=true&width=500&lines=I+once+built+a+drone+that+flies+autonomously!)](https://git.io/typing-svg)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=INTELEON404&theme=redical&hide_border=true"/>
-</p>
-
-<p align="center">
-  ![Visitor Count](https://profile-counter.glitch.me/INTELEON404/count.svg)
-  &nbsp;&nbsp;
-  [![](https://visitcount.itsvg.in/api?id=INTELEON404&icon=0&color=0)](https://visitcount.itsvg.in)
-</p>
-
-</div>
